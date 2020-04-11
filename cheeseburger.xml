@@ -2,6 +2,6 @@
 <manifest>
 
     <!-- Device configuration -->
-    <project path="device/oneplus/cheeseburger" name="LineageOS/android_device_oneplus_cheeseburger" />
+    <project path="device/oneplus/cheeseburger" name="ubports-oneplus5/android_device_oneplus_cheeseburger" revision="halium-9.0" />
 
 </manifest>

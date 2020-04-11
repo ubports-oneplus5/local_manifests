@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+    <!-- Linux kernel 4.4 (Android) -->
+    <project path="kernel/oneplus/msm8998" name="sailfishos-oneplus5/android_kernel_oneplus_msm8998" revision="halium-9.0" />
+
+    <!-- Device configuration -->
+    <project path="device/oneplus/msm8998-common" name="LineageOS/android_device_oneplus_msm8998-common" />
+
+    <!-- Vendor blobs -->
+    <project path="vendor/oneplus" name="sailfishos-oneplus5/proprietary_vendor_oneplus_msm8998" />
+
+</manifest>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+    <!-- Deployment scripts -->
+    <project path="halium/scripts" name="JBBgameich/halium-install" revision="master" />
+
+    <!-- Additional Halium 9 patches to halium-boot -->
+    <remove-project path="halium/halium-boot" name="Halium/halium-boot" />
+    <project path="halium/halium-boot" name="erfanoabdi/halium-boot" revision="halium-9.0" />
+
+</manifest>

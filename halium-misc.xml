@@ -8,8 +8,4 @@
     <remove-project path="halium/halium-boot" name="Halium/halium-boot" />
     <project path="halium/halium-boot" name="erfanoabdi/halium-boot" revision="halium-9.0" />
 
-    <!-- Minor visual-only changes to applied hybris-patches -->
-    <remove-project path="hybris-patches" name="Halium/hybris-patches" />
-    <project path="hybris-patches" name="ubports-oneplus5/hybris-patches" revision="halium-9.0" />
-
 </manifest>
